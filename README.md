@@ -1,7 +1,5 @@
 # [What is API?](https://www.mulesoft.com/resources/api/what-is-an-api)
-<ul>
-  <li><a href="https://www.ibm.com/cloud/learn/api">How API Works?</a></li>
-</ul>
+- [How API Works?](https://www.ibm.com/cloud/learn/api)
 - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 # [Postman](https://www.postman.com/products/)
