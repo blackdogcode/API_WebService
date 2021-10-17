@@ -3,4 +3,4 @@
 - [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 # [Postman](https://www.postman.com/products/)
-- [Postman Tutorial](https://www.javatpoint.com/postman)
+- [Postman Tutorial](https://www.tutorialspoint.com/postman/index.htm)
